@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋 I'm Joseph, a Software Engineer in the making and Computer Science student in Singapore Management Univeristy. This is an overview of the projects that I have worked on so far. Thank you for visiting my profile :)
+Hi there 👋 
+
+I'm Joseph, a Software Engineer in the making and Computer Science student in Singapore Management Univeristy. This is an overview of the projects that I have worked on so far. Thank you for visiting my profile :)
 
 ## 🔗 Connect with me
 <br>
