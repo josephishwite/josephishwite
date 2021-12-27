@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 
 ### Hi there 👋 I'm Joseph, a Software Engineer in the making and Computer Science student in Singapore Management Univeristy. This is an overview of the projects that I have worked on so far. Thank you for visiting my profile :)
 
-🔗 Connect with me
+## 🔗 Connect with me
+<br>
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/joseph-teo-099852121/)
 
 ## 📌 Pinned Repositories
@@ -36,11 +37,9 @@ Here are some ideas to get you started:
 
 [![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephishwite&theme=noctis_minimus&show_icons=true)](https://github.com/josephishwite/github-readme-stats)
 
-
-<br>
 <br>
 
-## Skills
+## 💼 Skills
 
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
