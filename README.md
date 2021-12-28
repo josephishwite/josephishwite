@@ -20,6 +20,7 @@ I'm Joseph, a Software Engineer in the making and Computer Science student in Si
 
 ## 🔗 Connect with me
 <br>
+
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/joseph-teo-099852121/)
 
 ## 📌 Pinned Repositories
